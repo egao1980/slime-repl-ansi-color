@@ -1,3 +1,7 @@
+;;; slime-repl-ansi-color.el --- ANSI colors for SLIME repl  -*- Mode: Emacs-Lisp -*-
+
+;;; author --- Max Mikhanosha
+
 (require 'ansi-color)
 
 (define-slime-contrib slime-repl-ansi-color
